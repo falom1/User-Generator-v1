@@ -2,7 +2,7 @@
  سكربت ينشئ يوزرات عشوائية مفيد لتخمين اليوزرات المميزة | simple  Script for make list of special users
 
 
-#You need install this libraries :
+#You need to install this libraries :
 - time
 - random
 - sys
