@@ -9,7 +9,7 @@ Users.txt
 https://github.com/xcodeOn1/User-Generator-v1
 #screenshot
 # screenshot :
-![First 1](https://i.ibb.co/RyNyHYT/hello1.png)
+![First 1]()
 
 #You need to install this libraries :
 - time
